@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|c:\\users\\ltipeiu\\angulartraining\\travelapi\\travelapi\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|solutionrelative:travelapi\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|c:\\users\\ltipeiu\\angulartraining\\travelapi\\travelapi\\services\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|solutionrelative:travelapi\\services\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|c:\\users\\ltipeiu\\angulartraining\\travelapi\\travelapi\\services\\itripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|solutionrelative:travelapi\\services\\itripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|c:\\users\\ltipeiu\\angulartraining\\travelapi\\travelapi\\models\\tripnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|solutionrelative:travelapi\\models\\tripnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|c:\\users\\ltipeiu\\angulartraining\\travelapi\\travelapi\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|solutionrelative:travelapi\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|c:\\users\\ltipeiu\\angulartraining\\travelapi\\travelapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|solutionrelative:travelapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|c:\\users\\ltipeiu\\angulartraining\\travelapi\\travelapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|solutionrelative:travelapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|c:\\users\\ltipeiu\\angulartraining\\travelapi\\travelapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F29312-1847-4337-8571-0F293CE85AF4}|TravelAPI\\TravelAPI.csproj|solutionrelative:travelapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TripNote.cs",
+              "DocumentMoniker": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\Models\\TripNote.cs",
+              "RelativeDocumentMoniker": "TravelAPI\\Models\\TripNote.cs",
+              "ToolTip": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\Models\\TripNote.cs",
+              "RelativeToolTip": "TravelAPI\\Models\\TripNote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:50:58.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITripService.cs",
+              "DocumentMoniker": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\Services\\ITripService.cs",
+              "RelativeDocumentMoniker": "TravelAPI\\Services\\ITripService.cs",
+              "ToolTip": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\Services\\ITripService.cs",
+              "RelativeToolTip": "TravelAPI\\Services\\ITripService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:50:55.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\Settings\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "TravelAPI\\Settings\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\Settings\\MongoDBSettings.cs",
+              "RelativeToolTip": "TravelAPI\\Settings\\MongoDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:50:49.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TravelAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TravelAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T10:24:35.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TravelAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\appsettings.json",
+              "RelativeToolTip": "TravelAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T10:24:33.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TravelAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\Program.cs",
+              "RelativeToolTip": "TravelAPI\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:23:31.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripService.cs",
+              "DocumentMoniker": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\Services\\TripService.cs",
+              "RelativeDocumentMoniker": "TravelAPI\\Services\\TripService.cs",
+              "ToolTip": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\Services\\TripService.cs",
+              "RelativeToolTip": "TravelAPI\\Services\\TripService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:55:48.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TripController.cs",
+              "DocumentMoniker": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\Controllers\\TripController.cs",
+              "RelativeDocumentMoniker": "TravelAPI\\Controllers\\TripController.cs",
+              "ToolTip": "C:\\Users\\ltipeiu\\AngularTraining\\TravelAPI\\TravelAPI\\Controllers\\TripController.cs*",
+              "RelativeToolTip": "TravelAPI\\Controllers\\TripController.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:41:38.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
